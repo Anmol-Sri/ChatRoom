@@ -9,6 +9,8 @@ A web application that has some cool latest features including multi-chatroom sy
 - **New Message Notification**
 - **Alert Sounds**
 - **Notification Sounds**
+- **New User Joining Messages**
+- **Bot For handling all the background tasks notification and alerting**
 
 ## Used Technologies Include :
 - **Vanilla JavaScript**
