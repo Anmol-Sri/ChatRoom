@@ -29,3 +29,6 @@ A web application that has some cool latest features including multi-chatroom sy
   - **localhost:3000**
 - You will see the option to Join the existing rooms or create a group.
 - Enter your desired username and start chatting with your friends.
+
+## ScreenShots : 
+![Alt Text](/ScreenShots/1.png)
