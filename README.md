@@ -20,10 +20,10 @@ A web application that has some cool latest features including multi-chatroom sy
 ## Steps to Follow :
 - Open the Project in your favourite Editor
 - Run these following Commands in your console :
-  > **npm install**
-  > **npm start**
+  - **npm install**
+  - **npm start**
 - Rest all tasks will be taken care of by the applicaton
 - Now head on to your browser and enter : 
-  > **localhost:3000**
+  - **localhost:3000**
 - You will see the option to Join the existing rooms or create a group.
 - Enter your desired username and start chatting with your friends.
