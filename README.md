@@ -3,7 +3,7 @@ A web application that has some cool latest features including multi-chatroom sy
 
 ## Some of the Features Of this ChatRoom : 
 - **MultiRoom Chat App Based**
-- **Chat Groups Feature **
+- **Chat Groups Feature**
 - **Unread Message Count**
 - **Unread Message Notification**
 - **New Message Notification**
