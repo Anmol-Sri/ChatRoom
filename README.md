@@ -18,6 +18,7 @@ A web application that has some cool latest features including multi-chatroom sy
 - **SocketIO**
 - **Moment**
 - **ExpressJS**
+- **React**
 
 ## Steps to Follow :
 - Open the Project in your favourite Editor
